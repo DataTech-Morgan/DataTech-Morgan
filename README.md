@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jhonatan-Morgan
 - 👀 I’m interested in AI, Machine Learning and Data Science.
-- 🌱 I’m currently learning Python, ABAP and T-SQL. 
+- 🌱 I’m currently learning Python and T-SQL. 
 - 💞️ I’m looking to collaborate on Kaggle Competitions, Start up´s and innovation projects.
 - 📫 How to reach me linkedin: www.linkedin.com/in/jhonatan-morgan/
 <!---
